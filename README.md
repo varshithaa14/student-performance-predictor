@@ -71,7 +71,6 @@ student-performance-predictor/
 ├── app.py
 ├── train_model.py
 ├── student-mat.csv
-├── student_data.csv
 ├── requirements.txt
 └── README.md
 ```
